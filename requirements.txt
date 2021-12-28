@@ -7,3 +7,4 @@ yfinance
 lxml
 prophet
 plotly
+pandas-datareader
